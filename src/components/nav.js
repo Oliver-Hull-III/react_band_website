@@ -2,7 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 import 'bootstrap/dist/css/bootstrap.css';
-app.use(express.static(__dirname + '/public'));
 script(src='components/jquery/dist/jquery.min.js') 
 script(src='components/bootstrap/dist/js/bootstrap.min.js')
 
