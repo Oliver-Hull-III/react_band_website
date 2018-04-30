@@ -2,10 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 import 'bootstrap/dist/css/bootstrap.css';
-script(src='components/jquery/dist/jquery.min.js') 
-script(src='components/bootstrap/dist/js/bootstrap.min.js')
 
-window.jQuery = window.$ = require('jquery/dist/jquery.min.js');
 
 const Nav = () => (
 
