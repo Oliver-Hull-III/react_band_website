@@ -5,8 +5,9 @@ import Helmet from 'react-helmet'
 import Nav from '../components/nav'
 import './index.css'
 import 'bootstrap/dist/css/bootstrap.css';
-
 import './App.css';
+
+
 
 const Layout = ({ children, data }) => (
   <div>
