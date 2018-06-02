@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 import 'bootstrap/dist/css/bootstrap.css';
-//import 'bootstrap/dist/js/bootstrap.min.js';
+import 'bootstrap/dist/js/bootstrap.min.js';
 
 
 const Nav = () => (
