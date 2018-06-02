@@ -4,8 +4,6 @@ import styled from 'styled-components';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.min.js';
 
-window.jQuery = window.$ = require('jquery/dist/jquery.min.js');
-global.jQuery = global.$ = require('jquery'); 
 
 const Nav = () => (
 
